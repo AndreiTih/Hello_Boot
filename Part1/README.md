@@ -17,11 +17,7 @@ I am only using these 2 commandline utilities from Cygwin:
 
 To build:
 
-## Optional : Using make:
-
-Optionally you can use make which can be obtained form Cygwin as well.
-
-## Optional : Using the provided batch scripts:
+## Using the provided batch scripts:
 
 1. Edit the batch scripts and modify the BOCHS_ROOT variable to point to the root folder of your Bochs installation.
 2. Add the cygwin/bin folder to your PATH environment variable
@@ -41,3 +37,15 @@ print_hello_boot.bat
 ```
 To run the simulation that boots the simplest bootable program referenced in the article from the BIOS
 
+
+## [Optional] Using make:
+
+Optionally you can use the make build system which can be obtained from Cygwin as well.
+
+1. Edit the Makefile file and modify the BOCHS_ROOT variable to point to the root folder of your Bochs installation.
+
+Simply run:
+```
+make run
+```
+To run the simulation that prints Hello Boot! from the BIOS
