@@ -42,7 +42,7 @@ To run the simulation that boots the simplest bootable program referenced in the
 
 Optionally you can use the make build system which can be obtained from Cygwin as well.
 
-1. Edit the Makefile file and modify the BOCHS_ROOT variable to point to the root folder of your Bochs installation.
+1. Edit the Makefile and modify the BOCHS_ROOT variable to point to the root folder of your Bochs installation.
 
 Simply run:
 ```
