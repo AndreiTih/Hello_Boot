@@ -35,7 +35,9 @@ To run the simulation that prints the character 'A' from the BIOS
 ```
 smallest_program.bat
 ```
-To run the simulation that boots the simplest bootable program referenced in the article from the BIOS
+To run the simulation that boots the simplest bootable program referenced in the article from the BIOS.
+
+A Bochs Start menu window will pop up after running either of the batch scripts. Click Start.
 
 
 ## [Optional] Using make:
