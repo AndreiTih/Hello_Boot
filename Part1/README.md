@@ -8,6 +8,7 @@ On Windows:
 Tools needed:
 
 [Bochs](https://bochs.sourceforge.io/) : I am using version 2.7, obtained from [their website](https://bochs.sourceforge.io/).
+
 [Cygwin](https://www.cygwin.com/): I am using version 3.3.6.
 
 I am only using these 2 commandline utilities from Cygwin:
