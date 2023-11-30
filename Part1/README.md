@@ -38,8 +38,10 @@ smallest_program.bat
 To run the simulation that boots the simplest bootable program referenced in the article from the BIOS.
 
 A Bochs Start menu window will pop up after running either of the batch scripts. Click Start.
-<img src="readme_data/Bochs_Start_Menu.JPG" alt="bochs_start_menu_image">
 
+<div align="center">
+<img src="readme_data/Bochs_Start_Menu.JPG" alt="bochs_start_menu_image">
+</div>
 
 ## [Optional] Using make:
 
