@@ -3,7 +3,7 @@
 
 Compiling and running the code:
 
-On Windows:
+## On Windows:
 
 Tools needed:
 
