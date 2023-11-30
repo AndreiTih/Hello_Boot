@@ -29,11 +29,11 @@ print_hello_boot.bat
 ```
 To run the simulation that prints Hello Boot! from the BIOS
 ```
-print_hello_boot.bat
+print_print_char.bat
 ```
 To run the simulation that prints the character 'A' from the BIOS
 ```
-print_hello_boot.bat
+smallest_program.bat
 ```
 To run the simulation that boots the simplest bootable program referenced in the article from the BIOS
 
