@@ -1,2 +1,7 @@
+# Ignore any compiled files
+*.bin
+
+# Ignore the bootable image
 *.iso
 bochsout.txt
+
